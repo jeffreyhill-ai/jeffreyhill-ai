@@ -4,7 +4,9 @@ I build trusted financial AI products and platforms: agentic workflows, governed
 
 My work sits where product strategy, platform architecture, and hands-on engineering meet. The work I care about most is turning fragmented financial data into systems that can reason, act, explain themselves, and stay inside the trust boundaries of real financial institutions.
 
-I have spent 20+ years building financial-data and investment-platform products across wealthtech, private markets, research, advisor workflows, and enterprise data. The through-line is simple: financial intelligence is not created by adding a model to a screen. It is created by modeling the domain, governing the data, designing the workflow, and giving AI tools a safe way to act.
+I have spent 20+ years building financial-data and investment-platform products across wealthtech, private markets, research, advisor workflows, and enterprise data. A major part of that background is deep work with the largest financial data providers and the messy realities behind their feeds: market data, fundamentals, estimates, research, news, transcripts, filings, portfolio data, private markets, alternatives, banking, custody, identifiers, entitlements, lineage, and source-specific quirks.
+
+The through-line is simple: financial intelligence is not created by adding a model to a screen. It is created by understanding the data deeply enough to model the domain, govern the sources, resolve the entities, design the workflow, and give AI tools a safe way to act.
 
 ## The Thesis
 
@@ -29,6 +31,7 @@ I am most useful when a company is moving from AI ambition to AI product reality
 - designing the platform architecture
 - defining schemas, contracts, evals, and approval boundaries
 - connecting models to financial data and governed tools
+- making fragmented provider data usable across identifiers, taxonomies, entitlements, lineage, and product workflows
 - translating between executives, product, engineering, design, data, security, and go-to-market
 - staying close enough to implementation to know whether the architecture actually works
 
@@ -54,7 +57,7 @@ MoneyVision is a proof point for how I think: start with the real workflow, desi
 - Agentic systems for advisor, investor, research, and operational workflows
 - Tool-using AI systems with strict schemas, validation, evals, and approval gates
 - Canonical financial models, taxonomies, entity resolution, and source grounding
-- Financial-data integrations across market data, private markets, portfolios, banking, news, research, and enterprise knowledge
+- Financial-data integrations across major providers: market data, fundamentals, estimates, news, research, filings, transcripts, portfolios, banking, custody, private markets, alternatives, and enterprise knowledge
 - Streaming product experiences that connect AI reasoning to deterministic enterprise systems
 
 ## Working Principles
@@ -72,6 +75,7 @@ MoneyVision is a proof point for how I think: start with the real workflow, desi
 - Private markets and alternatives
 - Financial research and investment platforms
 - Enterprise financial data
+- Financial data providers, identifiers, symbology, entitlements, lineage, and source normalization
 - Agentic AI, tool use, MCP, and structured outputs
 - AI-ready platform architecture
 
