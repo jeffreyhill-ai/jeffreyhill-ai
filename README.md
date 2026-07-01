@@ -2,26 +2,39 @@
 
 I build trusted financial AI products and platforms: agentic workflows, governed tool use, source-grounded data, and advisor/investor experiences that can survive production.
 
-My work sits where product strategy, platform architecture, and hands-on engineering meet. I am most interested in senior AI product/platform roles where the mandate is to turn ambiguous AI opportunity into systems people can trust, operate, and scale.
+My work sits where product strategy, platform architecture, and hands-on engineering meet. The work I care about most is turning fragmented financial data into systems that can reason, act, explain themselves, and stay inside the trust boundaries of real financial institutions.
 
-I have spent 20+ years building financial-data and investment-platform products across wealthtech, private markets, research, advisor workflows, and enterprise data. The through-line is simple: fragmented financial data becomes valuable only when it is modeled, governed, explainable, and connected to real user workflows.
+I have spent 20+ years building financial-data and investment-platform products across wealthtech, private markets, research, advisor workflows, and enterprise data. The through-line is simple: financial intelligence is not created by adding a model to a screen. It is created by modeling the domain, governing the data, designing the workflow, and giving AI tools a safe way to act.
 
-## Role Fit
+## The Thesis
 
-I am a strong fit for roles such as:
+The next generation of wealthtech will not be won by prettier dashboards alone.
 
-- Principal AI Product Architect
-- Principal Platform Architect
-- Head of AI Product Architecture
-- AI/Agentic Systems Architect
-- WealthTech AI Platform Lead
-- Financial Data Product/Platform Leader
+It will be won by systems that can:
 
-I am especially useful when a company needs someone who can move between executive product strategy, architecture decisions, and hands-on implementation without losing the thread.
+- turn messy evidence into structured, source-linked facts
+- make uncertainty visible instead of hiding it in polished prose
+- connect AI reasoning to governed tools and deterministic data
+- preserve entitlements, attribution, lineage, and auditability
+- keep humans in the approval loop where judgment matters
+- move from insight to action without becoming unsafe automation
+
+That is the space I am building in: financial AI that behaves less like a chatbot and more like a trusted workbench.
+
+## Where I Add The Most Value
+
+I am most useful when a company is moving from AI ambition to AI product reality:
+
+- shaping the product thesis and wedge
+- designing the platform architecture
+- defining schemas, contracts, evals, and approval boundaries
+- connecting models to financial data and governed tools
+- translating between executives, product, engineering, design, data, security, and go-to-market
+- staying close enough to implementation to know whether the architecture actually works
 
 ## Current Focus
 
-I am also exploring and building around a product thesis called **MoneyVision**:
+One current exploration is **MoneyVision**, a product thesis for local-first AI advisor workflows:
 
 > A local-first AI advisor workbench that turns messy financial evidence into reviewed financial snapshots, missing-data checklists, planning questions, advisor briefs, and client stories.
 
@@ -62,9 +75,9 @@ MoneyVision is a proof point for how I think: start with the real workflow, desi
 - Agentic AI, tool use, MCP, and structured outputs
 - AI-ready platform architecture
 
-## What I Am Looking For
+## Open Conversations
 
-I am primarily interested in senior roles where AI product architecture, financial data, and platform execution matter. The right opportunity likely involves:
+I am always interested in serious conversations with teams building the next layer of financial intelligence, especially where the work involves:
 
 - building production AI systems, not just demos
 - connecting models to governed tools and enterprise data
@@ -72,7 +85,7 @@ I am primarily interested in senior roles where AI product architecture, financi
 - creating advisor, investor, research, or operational workflows
 - turning an AI strategy into an actual product platform
 
-I am also open to thoughtful conversations around MoneyVision funding, design partners, advisor discovery, or early product validation.
+I am also open to thoughtful conversations around MoneyVision, advisor discovery, design partners, and early product validation when the thesis resonates.
 
 ## Links
 
