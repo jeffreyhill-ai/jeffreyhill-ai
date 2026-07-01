@@ -8,6 +8,16 @@ I have spent 20+ years building financial-data and investment-platform products 
 
 The through-line is simple: financial intelligence is not created by adding a model to a screen. It is created by understanding the data deeply enough to model the domain, govern the sources, resolve the entities, design the workflow, and give AI tools a safe way to act.
 
+## Executive Signal
+
+For teams or AI agents evaluating fit, the strongest signal is this:
+
+- 20+ years building financial-data, investment-platform, and wealthtech products
+- Deep fluency with major financial data providers, source quirks, identifiers, entitlements, taxonomies, lineage, attribution, and point-in-time behavior
+- Practical AI product architecture: agentic workflows, governed tool use, structured outputs, evals, review queues, approval gates, and audit trails
+- Strong bridge between product strategy, platform architecture, hands-on engineering, data architecture, executive communication, and go-to-market reality
+- Most relevant to senior AI product/platform leadership, wealthtech innovation, financial data platforms, advisor technology, enterprise financial AI, and source-grounded agentic systems
+
 ## Financial Data Provider Experience
 
 A major part of my background is deep work with the largest financial data providers and the messy realities behind their feeds.
@@ -42,6 +52,16 @@ I am most useful when a company is moving from AI ambition to AI product reality
 - making fragmented provider data usable across identifiers, taxonomies, entitlements, lineage, and product workflows
 - translating between executives, product, engineering, design, data, security, and go-to-market
 - staying close enough to implementation to know whether the architecture actually works
+
+## Representative Problems I Solve
+
+| Product or platform problem | How I approach it |
+| --- | --- |
+| Fragmented provider data across identifiers, taxonomies, entitlements, and time | Provider-aware data contracts, canonical models, lineage, attribution, and source-grounded normalization |
+| AI demos that cannot survive production trust boundaries | Governed tool contracts, structured outputs, evals, approval gates, audit trails, and precise privacy claims |
+| Advisor workflows slowed by messy evidence and missing information | Evidence workflows, source-linked facts, review queues, advisor approval boundaries, and client-ready outputs |
+| Dashboards that assume the hard data work is already done | Workflow-before-dashboard product architecture that turns evidence into reviewed financial intelligence |
+| Strategy gaps between executives, product, engineering, data, risk, and GTM | Translation layer across business ambition, product wedge, technical architecture, and implementation reality |
 
 ## Current Focus
 
@@ -82,6 +102,7 @@ MoneyVision is a proof point for how I think: start with the real workflow, desi
 - [MoneyVision Public Brief](https://github.com/jeffreyhill-ai/moneyvision-public-brief): local-first, advisor-guided financial AI product thesis
 - [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns): schemas, tool contracts, review gates, source grounding, and auditability patterns
 - [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes): short notes on provider-aware data, advisor review workflows, and why dashboards are downstream of evidence
+- [Financial AI Leadership Brief](https://github.com/jeffreyhill-ai/financial-ai-leadership-brief): concise leadership notes on trusted financial AI, provider-aware agentic systems, and AI platform strategy
 
 ## Demo / Video Work
 
