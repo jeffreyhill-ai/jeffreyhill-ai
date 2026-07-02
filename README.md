@@ -1,6 +1,6 @@
 # Jeffrey Hill
 
-I build trusted financial AI products and platforms: agentic workflows, governed tool use, source-grounded data, and advisor/investor experiences that can survive production.
+I build trusted financial AI products and platforms: agentic workflows, governed tool use, source-grounded data, and advisor/investor operating layers that can survive production.
 
 My work sits where product strategy, platform architecture, and hands-on engineering meet. The work I care about most is turning fragmented financial data into systems that can reason, act, explain themselves, and stay inside the trust boundaries of real financial institutions.
 
@@ -69,13 +69,15 @@ The next generation of wealthtech will not be won by prettier dashboards alone.
 It will be won by systems that can:
 
 - turn messy evidence into structured, source-linked facts
+- compress advisor workflows without weakening trust or review
 - make uncertainty visible instead of hiding it in polished prose
+- support AI-first planning with clear assumptions, open questions, and approval status
 - connect AI reasoning to governed tools and deterministic data
 - preserve entitlements, attribution, lineage, and auditability
 - keep humans in the approval loop where judgment matters
 - move from insight to action without becoming unsafe automation
 
-That is the space I am building in: financial AI that behaves less like a chatbot and more like a trusted workbench.
+That is the space I am building in: financial AI that behaves less like a chatbot and more like a trusted advisor operating layer.
 
 ## Where I Add The Most Value
 
@@ -85,6 +87,7 @@ I am most useful when a company is moving from AI ambition to AI product reality
 - designing the platform architecture
 - defining schemas, contracts, evals, and approval boundaries
 - connecting models to financial data and governed tools
+- turning AI-first advisor workflows into source-grounded, reviewable product architecture
 - making fragmented provider data usable across identifiers, taxonomies, entitlements, lineage, and product workflows
 - translating between executives, product, engineering, design, data, security, and go-to-market
 - staying close enough to implementation to know whether the architecture actually works
