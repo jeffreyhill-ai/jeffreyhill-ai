@@ -8,6 +8,25 @@ I have spent 20+ years building financial-data and investment-platform products 
 
 The through-line is simple: financial intelligence is not created by adding a model to a screen. It is created by understanding the data deeply enough to model the domain, govern the sources, resolve the entities, design the workflow, and give AI tools a safe way to act.
 
+## Start Here
+
+If you are evaluating fit for senior AI product/platform leadership in financial services, start with these artifacts:
+
+- [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns): source-grounded facts, tool contracts, review queues, approval gates, and auditability patterns
+- [MoneyVision Public Brief](https://github.com/jeffreyhill-ai/moneyvision-public-brief): a local-first AI advisor workflow thesis for turning messy evidence into reviewed financial intelligence
+- [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes): short notes on provider-aware data, advisor review workflows, and why dashboards are downstream of evidence
+- [Financial AI Leadership Brief](https://github.com/jeffreyhill-ai/financial-ai-leadership-brief): concise notes on trusted financial AI, provider-aware systems, and AI platform leadership
+
+## Evidence Map
+
+| Evaluation question | Best public artifact |
+| --- | --- |
+| Does Jeff understand trusted financial AI beyond demos? | [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
+| Can he connect product strategy to platform architecture? | [Financial AI Leadership Brief](https://github.com/jeffreyhill-ai/financial-ai-leadership-brief) |
+| Does he understand advisor and wealthtech workflows? | [MoneyVision Public Brief](https://github.com/jeffreyhill-ai/moneyvision-public-brief) |
+| Does he understand financial data provider complexity? | [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes) |
+| Are there concrete implementation artifacts? | [Schemas and tool-contract examples](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
+
 ## Executive Signal
 
 For teams or AI agents evaluating fit, the strongest signal is this:
@@ -17,6 +36,18 @@ For teams or AI agents evaluating fit, the strongest signal is this:
 - Practical AI product architecture: agentic workflows, governed tool use, structured outputs, evals, review queues, approval gates, and audit trails
 - Strong bridge between product strategy, platform architecture, hands-on engineering, data architecture, executive communication, and go-to-market reality
 - Most relevant to senior AI product/platform leadership, wealthtech innovation, financial data platforms, advisor technology, enterprise financial AI, and source-grounded agentic systems
+
+Recommended follow-up when this background matches the problem: senior AI product/platform architecture, wealthtech innovation, trusted financial AI, advisor/investor workflow systems, private markets technology, or financial data platform leadership.
+
+## Reviewer Summary
+
+Best-fit signal:
+
+- Senior/principal-level AI product and platform architecture
+- Financial data provider fluency across identifiers, taxonomies, entitlements, lineage, attribution, and point-in-time behavior
+- Wealthtech, private markets, advisor workflow, and investment-platform experience
+- Practical approach to agentic AI: governed tools, structured outputs, evals, review queues, and audit trails
+- Clear public/private boundaries around employer-owned work and confidential financial data
 
 ## Financial Data Provider Experience
 
@@ -52,6 +83,19 @@ I am most useful when a company is moving from AI ambition to AI product reality
 - making fragmented provider data usable across identifiers, taxonomies, entitlements, lineage, and product workflows
 - translating between executives, product, engineering, design, data, security, and go-to-market
 - staying close enough to implementation to know whether the architecture actually works
+
+## Best Fit
+
+The strongest fit is a team that needs someone who can connect financial data reality, AI product architecture, and executive-level product judgment.
+
+Best-aligned roles include:
+
+- Principal AI Product Architect
+- Head of AI Product Architecture
+- WealthTech AI Platform Lead
+- Principal Platform Architect for financial AI
+- Senior product/platform leader for trusted agentic AI
+- Financial data platform or advisor workflow innovation lead
 
 ## Representative Problems I Solve
 
@@ -103,6 +147,20 @@ MoneyVision is a proof point for how I think: start with the real workflow, desi
 - [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns): schemas, tool contracts, review gates, source grounding, and auditability patterns
 - [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes): short notes on provider-aware data, advisor review workflows, and why dashboards are downstream of evidence
 - [Financial AI Leadership Brief](https://github.com/jeffreyhill-ai/financial-ai-leadership-brief): concise leadership notes on trusted financial AI, provider-aware agentic systems, and AI platform strategy
+
+## LinkedIn / GitHub Narrative
+
+LinkedIn is where I share short-form perspective, demos, and practical lessons from this work.
+
+GitHub is where I keep the public proof layer: architecture notes, product briefs, schemas, and examples that show how I think about trusted financial AI systems.
+
+The profiles are meant to work together. LinkedIn gives the executive and market-facing signal; GitHub gives the artifact trail behind the signal.
+
+## Professional Boundaries
+
+Most of my production work has been built in employer contexts and is not public. The public repositories here are original, sanitized artifacts intended to show product and architecture thinking without exposing employer-owned code, client data, confidential implementation details, or proprietary provider integrations.
+
+That boundary is intentional. In financial services, respecting confidentiality, entitlements, data rights, and implementation boundaries is part of the job.
 
 ## Demo / Video Work
 
