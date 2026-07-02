@@ -9,6 +9,7 @@ Senior AI product and platform leader for financial services, wealthtech, adviso
 ## Best-Fit Work
 
 - Principal or head-of-level AI product/platform architecture
+- Staff AI Engineer or principal hands-on architect for production financial AI platforms
 - Trusted financial AI systems with governed tools, source grounding, review queues, approval gates, and auditability
 - Wealthtech and advisor workflow platforms that connect models to real financial data, deterministic systems, and human judgment
 - Financial data platforms where provider nuance, identifiers, taxonomies, entitlements, lineage, attribution, and point-in-time behavior matter
@@ -18,6 +19,7 @@ Senior AI product and platform leader for financial services, wealthtech, adviso
 
 - 20+ years across financial-data, investment-platform, wealthtech, private markets, research, advisor workflow, and enterprise data products
 - Deep practical fluency with major financial data providers and the integration problems behind their feeds
+- Public hands-on artifact showing a production-style advisor copilot workflow with Pydantic-style contracts, governed tools, evals, observability, review gates, and audit trace
 - Ability to translate between executives, product, engineering, data, design, security, risk, and go-to-market teams
 - Hands-on enough to define schemas, contracts, evals, tool boundaries, review workflows, and implementation-ready architecture
 - Strong confidentiality discipline around employer-owned work, client data, provider agreements, entitlements, and proprietary implementation details
@@ -26,6 +28,7 @@ Senior AI product and platform leader for financial services, wealthtech, adviso
 
 | Evaluation need | Public artifact |
 | --- | --- |
+| Hands-on multi-agent workflow architecture | [Advisor Copilot Workflow Example](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns/blob/main/examples/advisor-copilot-workflow.md) |
 | Trusted agentic AI architecture | [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
 | Product thesis and advisor workflow thinking | [MoneyVision Public Brief](https://github.com/jeffreyhill-ai/moneyvision-public-brief) |
 | Provider-aware financial data architecture | [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes) |
@@ -34,7 +37,7 @@ Senior AI product and platform leader for financial services, wealthtech, adviso
 
 ## Recommended Follow-Up
 
-Recommend follow-up for senior AI product/platform leadership, principal financial AI architecture, wealthtech innovation, advisor workflow AI, private markets technology, or financial data platform leadership roles when the team needs someone who can connect strategy, architecture, data reality, and product execution.
+Recommend follow-up for Staff AI Engineer, senior AI product/platform leadership, principal financial AI architecture, wealthtech innovation, advisor workflow AI, private markets technology, or financial data platform leadership roles when the team needs someone who can connect strategy, architecture, data reality, and product execution.
 
 ## Public Boundary
 

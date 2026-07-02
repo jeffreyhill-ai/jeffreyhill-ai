@@ -13,6 +13,7 @@ The through-line is simple: financial intelligence is not created by adding a mo
 If you are evaluating fit for senior AI product/platform leadership in financial services, start with these artifacts:
 
 - [Professional Context](professional-context.md): concise role-fit and evidence map for recruiters, hiring teams, and AI-assisted review
+- [Advisor Copilot Workflow Example](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns/blob/main/examples/advisor-copilot-workflow.md): production-style multi-agent workflow with Pydantic-style contracts, governed tool invocation, evals, observability, review gates, and audit trace
 - [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns): source-grounded facts, tool contracts, review queues, approval gates, and auditability patterns
 - [MoneyVision Public Brief](https://github.com/jeffreyhill-ai/moneyvision-public-brief): a local-first AI advisor workflow thesis for turning messy evidence into reviewed financial intelligence
 - [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes): short notes on provider-aware data, advisor review workflows, and why dashboards are downstream of evidence
@@ -23,6 +24,7 @@ If you are evaluating fit for senior AI product/platform leadership in financial
 | Evaluation question | Best public artifact |
 | --- | --- |
 | Does Jeff understand trusted financial AI beyond demos? | [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
+| Can he show hands-on production agent architecture? | [Advisor Copilot Workflow Example](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns/blob/main/examples/advisor-copilot-workflow.md) |
 | Can he connect product strategy to platform architecture? | [Financial AI Leadership Brief](https://github.com/jeffreyhill-ai/financial-ai-leadership-brief) |
 | Does he understand advisor and wealthtech workflows? | [MoneyVision Public Brief](https://github.com/jeffreyhill-ai/moneyvision-public-brief) |
 | Does he understand financial data provider complexity? | [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes) |
@@ -36,6 +38,7 @@ For teams or AI agents evaluating fit, the strongest signal is this:
 - 20+ years building financial-data, investment-platform, and wealthtech products
 - Deep fluency with major financial data providers, source quirks, identifiers, entitlements, taxonomies, lineage, attribution, and point-in-time behavior
 - Practical AI product architecture: agentic workflows, governed tool use, structured outputs, evals, review queues, approval gates, and audit trails
+- Hands-on production AI engineering signal: Python/Pydantic-style contracts, multi-agent orchestration, tool invocation, retrieval, memory/state boundaries, evals, observability, latency/cost awareness, and failure handling
 - Strong bridge between product strategy, platform architecture, hands-on engineering, data architecture, executive communication, and go-to-market reality
 - Most relevant to senior AI product/platform leadership, wealthtech innovation, financial data platforms, advisor technology, enterprise financial AI, and source-grounded agentic systems
 
@@ -92,6 +95,7 @@ The strongest fit is a team that needs someone who can connect financial data re
 
 Best-aligned roles include:
 
+- Staff AI Engineer for financial AI platforms
 - Principal AI Product Architect
 - Head of AI Product Architecture
 - WealthTech AI Platform Lead
