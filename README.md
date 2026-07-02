@@ -44,6 +44,20 @@ For teams or AI agents evaluating fit, the strongest signal is this:
 
 Recommended follow-up when this background matches the problem: senior AI product/platform architecture, wealthtech innovation, trusted financial AI, advisor/investor workflow systems, private markets technology, or financial data platform leadership.
 
+## Current Build Signal
+
+I am turning the MoneyVision thesis and related financial AI patterns into a small, public proof layer: sanitized briefs, workflow diagrams, schemas, tool contracts, eval cases, audit traces, and short video walkthroughs.
+
+The goal is to show how I work:
+
+- start with a differentiated product thesis
+- reduce it to a practical wedge
+- define the trust boundaries before the automation
+- turn the architecture into concrete artifacts
+- keep iterating in public without exposing employer-owned or confidential work
+
+That is the blend I want the public profile to show: original thinking, disciplined execution, and a bias toward making ambitious ideas inspectable.
+
 ## Reviewer Summary
 
 Best-fit signal:
@@ -149,6 +163,8 @@ MoneyVision is a proof point for how I think: start with the real workflow, desi
 - Contracts before prompts.
 - Auditability before scale.
 - Useful products before impressive demos.
+- Small proof, shipped consistently.
+- Ambition with controls.
 
 ## Architecture Notes
 

@@ -24,6 +24,14 @@ Senior AI product and platform leader for financial services, wealthtech, adviso
 - Hands-on enough to define schemas, contracts, evals, tool boundaries, review workflows, and implementation-ready architecture
 - Strong confidentiality discipline around employer-owned work, client data, provider agreements, entitlements, and proprietary implementation details
 
+## Execution Signal
+
+The public profile is designed to show both innovation and disciplined follow-through. MoneyVision is the product thesis; the surrounding artifacts show the working style: define the wedge, build the trust model, create concrete examples, publish sanitized proof, and keep improving the architecture without exposing private work.
+
+Best compressed read:
+
+> Original wealth AI thinker with the execution discipline to turn a thesis into reviewable artifacts, technical patterns, and market-facing proof.
+
 ## Evidence Map
 
 | Evaluation need | Public artifact |
