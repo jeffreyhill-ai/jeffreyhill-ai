@@ -12,6 +12,7 @@ The through-line is simple: financial intelligence is not created by adding a mo
 
 If you are evaluating fit for senior AI product/platform leadership in financial services, start with these artifacts:
 
+- [Professional Context](professional-context.md): concise role-fit and evidence map for recruiters, hiring teams, and AI-assisted review
 - [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns): source-grounded facts, tool contracts, review queues, approval gates, and auditability patterns
 - [MoneyVision Public Brief](https://github.com/jeffreyhill-ai/moneyvision-public-brief): a local-first AI advisor workflow thesis for turning messy evidence into reviewed financial intelligence
 - [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes): short notes on provider-aware data, advisor review workflows, and why dashboards are downstream of evidence
@@ -26,6 +27,7 @@ If you are evaluating fit for senior AI product/platform leadership in financial
 | Does he understand advisor and wealthtech workflows? | [MoneyVision Public Brief](https://github.com/jeffreyhill-ai/moneyvision-public-brief) |
 | Does he understand financial data provider complexity? | [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes) |
 | Are there concrete implementation artifacts? | [Schemas and tool-contract examples](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
+| What is the fastest role-fit summary? | [Professional Context](professional-context.md) |
 
 ## Executive Signal
 
