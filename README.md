@@ -39,7 +39,7 @@ Publicly, I am keeping the project description intentionally high-level while th
 - Deep fluency with provider data reality: identifiers, symbology, taxonomies, entitlements, lineage, attribution, point-in-time behavior, source quirks, and data-rights boundaries.
 - Practical AI architecture: structured outputs, tool contracts, multi-agent workflows, review queues, approval gates, eval cases, observability, latency/cost awareness, and failure handling.
 - Product judgment across the path from executive AI ambition to usable product wedge, implementation architecture, public proof, and go-to-market reality.
-- Confidentiality discipline around employer-owned work, client records, provider agreements, entitlement boundaries, and proprietary implementation details.
+- Confidentiality discipline around company-controlled systems, client records, provider agreements, entitlement boundaries, and proprietary implementation details.
 
 ## Working Principles
 
@@ -53,7 +53,9 @@ Publicly, I am keeping the project description intentionally high-level while th
 
 ## Public Boundary
 
-Most of my production work has been built in employer contexts and is not public. The repositories here are original, sanitized artifacts intended to show product and architecture thinking without exposing employer-owned code, client data, confidential implementation details, restricted provider integrations, or proprietary workflows.
+Most of my production work has been built in employer contexts and is not public. This GitHub account contains original material I created for portfolio, discussion, and evaluation purposes.
+
+Nothing here copies code, documents, data, integrations, product plans, implementation details, or proprietary material from any current or former employer, client, partner, or provider relationship. Work built in company contexts remains in company-controlled systems.
 
 That boundary is intentional. In financial services, respecting confidentiality, entitlements, data rights, and implementation boundaries is part of the job.
 
