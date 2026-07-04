@@ -23,35 +23,23 @@ Best compressed read:
 
 - 20+ years across financial-data, investment-platform, wealthtech, private markets, research, advisor workflow, and enterprise data products
 - Deep practical fluency with major financial data providers and the integration problems behind their feeds
-- Hands-on public artifacts showing production-style advisor copilot workflows, Pydantic-style contracts, governed tools, eval cases, observability, review gates, and audit traces
+- Hands-on public artifacts showing production-style advisor workflows, Pydantic-style contracts, governed tools, eval cases, observability, review gates, and audit traces
 - Ability to translate between executives, product, engineering, data, design, security, risk, compliance, and go-to-market teams
 - Hands-on enough to define schemas, contracts, evals, tool boundaries, prompt surfaces, review workflows, and implementation-ready architecture
 - Strong confidentiality discipline around employer-owned work, client data, provider agreements, entitlements, and proprietary implementation details
 
 ## Current Build Signal
 
-MoneyVision is the current product thesis and proof trail: a local-first advisor agent OS for wealth services.
+Current private R&D focuses on a local-first advisor workbench prototype for AI-assisted evidence review, structured outputs, approval gates, and audit trails.
 
-The wedge is the workflow before the dashboard:
-
-```text
-messy client evidence
-  -> AI-assisted extraction
-  -> source-linked facts
-  -> advisor review tasks
-  -> approved financial model
-  -> client story, display plan, snapshot, or sanitized export
-```
-
-The important signal is not only the idea. It is the working style: define the trust boundary, build the smallest useful loop, keep AI outputs reviewable, preserve audit trails, and publish sanitized proof without exposing private work.
+The public signal is intentionally restrained while the work is early. The most useful evidence is the working style: define trust boundaries, keep AI outputs reviewable, preserve source context, use narrow tools, test behavior, and avoid exposing private implementation or client data.
 
 ## Evidence Map
 
 | Evaluation need | Public artifact |
 | --- | --- |
-| Hands-on multi-agent workflow architecture | [Advisor Copilot Workflow Example](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns/blob/main/examples/advisor-copilot-workflow.md) |
+| Hands-on advisor workflow architecture | [Advisor Copilot Workflow Example](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns/blob/main/examples/advisor-copilot-workflow.md) |
 | Trusted agentic AI architecture | [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
-| Product thesis and advisor workflow thinking | [MoneyVision Public Brief](https://github.com/jeffreyhill-ai/moneyvision-public-brief) |
 | Provider-aware financial data architecture | [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes) |
 | Leadership and strategy signal | [Financial AI Leadership Brief](https://github.com/jeffreyhill-ai/financial-ai-leadership-brief) |
 | Overall public profile and proof layer | [GitHub Profile README](https://github.com/jeffreyhill-ai) |
@@ -72,6 +60,6 @@ Strongest matches:
 
 ## Public Boundary
 
-The public work here is original and sanitized. It is intended to show product and architecture thinking without exposing employer-owned code, confidential documents, client data, proprietary integrations, restricted provider details, or implementation protected by employer or client obligations.
+The public work here is original and sanitized. It is intended to show product and architecture thinking without exposing employer-owned code, confidential documents, client data, proprietary integrations, restricted provider details, private implementation details, or product strategy that is not ready for public disclosure.
 
 That boundary is part of the professional signal. Trusted financial AI requires respect for confidentiality, data rights, entitlements, auditability, and human approval boundaries.
