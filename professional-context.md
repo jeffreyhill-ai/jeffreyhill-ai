@@ -26,7 +26,7 @@ Best compressed read:
 - Hands-on public artifacts showing production-style advisor workflows, Pydantic-style contracts, governed tools, eval cases, observability, review gates, and audit traces
 - Ability to translate between executives, product, engineering, data, design, security, risk, compliance, and go-to-market teams
 - Hands-on enough to define schemas, contracts, evals, tool boundaries, prompt surfaces, review workflows, and implementation-ready architecture
-- Strong confidentiality discipline around employer-owned work, client data, provider agreements, entitlements, and proprietary implementation details
+- Strong confidentiality discipline around company-controlled systems, client data, provider agreements, entitlements, and proprietary implementation details
 
 ## Current Build Signal
 
@@ -60,6 +60,8 @@ Strongest matches:
 
 ## Public Boundary
 
-The public work here is original and sanitized. It is intended to show product and architecture thinking without exposing employer-owned code, confidential documents, client data, proprietary integrations, restricted provider details, private implementation details, or product strategy that is not ready for public disclosure.
+This GitHub account contains original material I created for portfolio, discussion, and evaluation purposes.
+
+Nothing here copies code, documents, data, integrations, product plans, implementation details, or proprietary material from any current or former employer, client, partner, or provider relationship. Work built in company contexts remains in company-controlled systems.
 
 That boundary is part of the professional signal. Trusted financial AI requires respect for confidentiality, data rights, entitlements, auditability, and human approval boundaries.
