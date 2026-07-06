@@ -1,6 +1,8 @@
 # Professional Context
 
-This page is a concise evaluation map for recruiters, hiring teams, and AI-assisted review systems.
+**Principal AI Platform Architect & Engineer | WealthTech, Private Markets & Financial Data Platforms | Production-Grade Agentic AI**
+
+A concise summary of role fit and where to find supporting evidence.
 
 ## Primary Signal
 
@@ -36,7 +38,7 @@ The public signal is intentionally restrained while the work is early. The most 
 
 ## Evidence Map
 
-| Evaluation need | Public artifact |
+| Looking for | Where to find it |
 | --- | --- |
 | Hands-on advisor workflow architecture | [Advisor Copilot Workflow Example](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns/blob/main/examples/advisor-copilot-workflow.md) |
 | Trusted agentic AI architecture | [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
@@ -44,9 +46,9 @@ The public signal is intentionally restrained while the work is early. The most 
 | Leadership and strategy signal | [Financial AI Leadership Brief](https://github.com/jeffreyhill-ai/financial-ai-leadership-brief) |
 | Overall public profile and proof layer | [GitHub Profile README](https://github.com/jeffreyhill-ai) |
 
-## Recommended Follow-Up
+## Roles That Fit
 
-Recommend follow-up when the team needs someone who can connect strategy, architecture, financial data reality, and hands-on product execution.
+This background fits best where strategy, architecture, financial data reality, and hands-on product execution need to be connected by one person.
 
 Strongest matches:
 

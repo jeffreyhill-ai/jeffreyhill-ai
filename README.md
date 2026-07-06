@@ -1,3 +1,5 @@
+![Jeffrey Hill — Principal AI Platform Architect & Engineer](assets/profile-banner.png)
+
 # Jeffrey Hill
 
 **Principal AI Platform Architect & Engineer | WealthTech, Private Markets & Financial Data Platforms | Production-Grade Agentic AI**
