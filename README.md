@@ -12,7 +12,7 @@ The through-line is simple: financial AI needs more than a model beside an inter
 
 If you are evaluating fit for senior AI product, platform, or architecture work in financial services, start with these artifacts:
 
-- [Professional Context](professional-context.md): concise role-fit and evidence map for recruiters, hiring teams, and AI-assisted review.
+- [Professional Context](professional-context.md): a concise summary of role fit and where to find supporting evidence.
 - [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns): schemas, tool contracts, review gates, source grounding, evals, and auditability patterns.
 - [Advisor Copilot Workflow Example](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns/blob/main/examples/advisor-copilot-workflow.md): production-style advisor workflow with governed tool invocation and an audit trace.
 - [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes): short notes on provider-aware data, advisor review workflows, and trusted wealthtech AI.
@@ -26,14 +26,14 @@ Publicly, I am keeping the project description intentionally high-level while th
 
 ## Evidence Map
 
-| Evaluation question | Best public artifact |
+| Looking for | Where to find it |
 | --- | --- |
-| Does Jeff understand trusted financial AI beyond demos? | [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
-| Can he show hands-on production agent architecture? | [Advisor Copilot Workflow Example](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns/blob/main/examples/advisor-copilot-workflow.md) |
-| Can he connect product strategy to platform architecture? | [Financial AI Leadership Brief](https://github.com/jeffreyhill-ai/financial-ai-leadership-brief) |
-| Does he understand advisor and wealthtech workflows? | [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes) |
-| Is there concrete implementation signal? | [Schemas, evals, tool contracts, and reference examples](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
-| What is the fastest role-fit summary? | [Professional Context](professional-context.md) |
+| Trusted financial AI beyond demos | [Agentic Financial AI Patterns](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
+| Hands-on agent architecture | [Advisor Copilot Workflow Example](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns/blob/main/examples/advisor-copilot-workflow.md) |
+| Product strategy connected to platform architecture | [Financial AI Leadership Brief](https://github.com/jeffreyhill-ai/financial-ai-leadership-brief) |
+| Advisor and wealthtech workflow depth | [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes) |
+| Concrete implementation artifacts | [Schemas, evals, tool contracts, and reference examples](https://github.com/jeffreyhill-ai/agentic-financial-ai-patterns) |
+| The fastest role-fit summary | [Professional Context](professional-context.md) |
 
 ## What I Bring
 
@@ -75,4 +75,4 @@ LinkedIn is the best place to reach me: [linkedin.com/in/jeffreyhill-ai](https:/
 
 ## Use / Reuse
 
-Content is shared for discussion, portfolio, and professional context. No license is granted for commercial reuse, redistribution, or derivative use without permission.
+Content in this account's public repositories is licensed under CC BY-NC 4.0 (see each repository's LICENSE): share and adapt for noncommercial purposes with attribution. Commercial use requires permission.
