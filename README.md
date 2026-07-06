@@ -1,5 +1,7 @@
 # Jeffrey Hill
 
+**Principal AI Platform Architect & Engineer | WealthTech, Private Markets & Financial Data Platforms | Production-Grade Agentic AI**
+
 I build trusted financial AI products and platforms for financial services: source-grounded data, governed tools, review workflows, evals, and auditability.
 
 My work sits where product strategy, financial-data architecture, and hands-on AI engineering meet. I focus on systems that make AI useful inside real trust boundaries: structured outputs, narrow tool contracts, human review, clear approval points, observable behavior, and durable audit trails.
@@ -53,7 +55,7 @@ Publicly, I am keeping the project description intentionally high-level while th
 
 ## Public Boundary
 
-Most of my production work has been built in employer contexts and is not public. This GitHub account contains original material I created for portfolio, discussion, and evaluation purposes.
+Most of my production work has been built in employer contexts and is not public. This GitHub account contains original material I created for portfolio, discussion, and evaluation purposes. This account is new as of mid-2026 for exactly that reason: two decades of production work lives in employer-controlled systems, so I built this portfolio from scratch to show how I think and build today.
 
 Nothing here copies code, documents, data, integrations, product plans, implementation details, or proprietary material from any current or former employer, client, partner, or provider relationship. Work built in company contexts remains in company-controlled systems.
 
