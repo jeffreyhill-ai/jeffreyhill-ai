@@ -22,7 +22,7 @@ If you are evaluating fit for senior AI product, platform, or architecture work 
 
 ## Current Focus
 
-Current private R&D: a local-first advisor workbench prototype exploring AI-assisted evidence review, structured outputs, approval gates, and audit trails for wealth workflows.
+Current private R&D: an advisor workbench prototype exploring AI-assisted evidence review, structured outputs, approval gates, and audit trails for wealth workflows.
 
 Publicly, I am keeping the project description intentionally high-level while the work is early. The stronger public signal is the pattern library around trusted financial AI: source grounding, review queues, governed tools, schema design, evals, and auditability.
 
