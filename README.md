@@ -20,12 +20,6 @@ If you are evaluating fit for senior AI product, platform, or architecture work 
 - [WealthTech AI Architecture Notes](https://github.com/jeffreyhill-ai/wealthtech-ai-architecture-notes): short notes on provider-aware data, advisor review workflows, and trusted wealthtech AI.
 - [Financial AI Leadership Brief](https://github.com/jeffreyhill-ai/financial-ai-leadership-brief): concise notes on trusted financial AI, platform leadership, and product architecture.
 
-## Current Focus
-
-Current private R&D: an advisor workbench prototype exploring AI-assisted evidence review, structured outputs, approval gates, and audit trails for wealth workflows.
-
-Publicly, I am keeping the project description intentionally high-level while the work is early. The stronger public signal is the pattern library around trusted financial AI: source grounding, review queues, governed tools, schema design, evals, and auditability.
-
 ## Evidence Map
 
 | Looking for | Where to find it |
